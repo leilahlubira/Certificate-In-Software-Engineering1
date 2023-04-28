@@ -1,0 +1,12 @@
+.container1{
+    background-color: black;
+    color: aliceblue;
+    padding: 15px;
+    font-size: 32px;
+    justify-content: center;
+  }
+  
+#submit_btn{
+    color: white;
+    background-color: orange;
+}
